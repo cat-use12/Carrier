@@ -1,0 +1,13 @@
+{
+  "name": "cek-carrier-phone",
+  "version": "1.0.0",
+  "description": "Tool untuk mencari informasi carrier, lokasi, dan validitas nomor telepon.",
+  "main": "carrier.py",
+  "scripts": {
+    "start": "python carrier.py"
+  },
+  "keywords": ["phone lookup", "carrier", "phonenumbers", "location"],
+  "author": "loivXploit",
+  "license": "MIT",
+  "dependencies": {}
+}
